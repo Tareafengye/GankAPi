@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">干货集中营</string>
+    <string name="connect_error">网络连接失败,请检查网络</string>
+    <string name="connect_timeout">连接超时,请稍后再试</string>
+    <string name="bad_network">服务器异常</string>
+    <string name="parse_error">解析服务器响应数据失败</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="response_return_error">服务器返回数据失败</string>
+    <string name="gravity_left">left</string>
+    <string name="gravity_center">center</string>
+    <string name="gravity_right">right</string>
+    <string name="photos_num">%1$d张</string>
+    <string name="msg_no_camera">没找到摄像头</string>
+    <string name="msg_maxi_capacity">已达到照片选择上限</string>
+    <string name="commit">确定</string>
+    <string name="commit_num">确定(%1$d/%2$d)</string>
+
+    <string name="c_ce">CE</string>
+    <string name="c_c">C</string>
+    <string name="c_xx">Xx</string>
+    <string name="c_div">÷</string>
+
+    <string name="c_7">7</string>
+    <string name="c_8">8</string>
+    <string name="c_9">9</string>
+    <string name="c_X">X</string>
+
+    <string name="c_4">4</string>
+    <string name="c_5">5</string>
+    <string name="c_6">6</string>
+    <string name="c_delete">－</string>
+
+    <string name="c_1">1</string>
+    <string name="c_2">2</string>
+    <string name="c_3">3</string>
+    <string name="c_add">＋</string>
+
+    <string name="c_aord">±</string>
+    <string name="c_0">0</string>
+    <string name="c_point">·</string>
+    <string name="c_equal">＝</string>
+    <string name="nav_desc">nav_desc</string>
+    <string name="launch_intro">这是第一个Fragment界面</string>
+    <string name="launch_click_me">我是一个按钮</string>
+    <string name="common_intro">这是CommonUIFragment界面</string>
+    <!--日常账本-->
+    <string name="day_lanch">午餐</string>
+    <string name="day_money">现金(CNY)</string>
+    <string name="day_menu">备注...</string>
+    <string name="day_me">自己</string>
+    <string name="day_business">选择商家</string>
+    <string name="day_baoxiao">报销</string>
+    <string name="gallery_num">%s张</string>
+    <string name="cannot_take_pic">SD卡不存在,不能拍照</string>
+    <string name="all_photo">所有图片</string>
+    <string name="select_photo">选择图片</string>
+    <string name="clip">裁剪</string>
+    <string name="ok">确定</string>
+    <string name="save_big_image">保存图片</string>
+    <string name="saved_faild">保存失败</string>
+    <string name="save_image_aready">已保存->图库查看,图片地址: \n %s</string>
+    <string name="gallery">相册</string>
+    <string name="loading">加载中&#8230;</string>
+    <string name="unable_find_pic">找不到图片</string>
+    <string name="selected">选择</string>
+    <string name="send">发送</string>
+    <string name="sends" formatted="false">发送(%s/%s)</string>
+    <string name="image_size">原图(%s)</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+
+    <!-- android 6.0权限-->
+    <string name="permission_tip_camera">缺少(相机)权限，无法使用该功能，点击"设置"去开启此权限\n您可在“设置”>“应用”>“权限”中配置权限</string>
+    <string name="permission_tip_audio">缺少(麦克风)权限，无法使用该功能，点击"设置"去开启此权限\n您可在“设置”>“应用”>“权限”中配置权限</string>
+    <string name="permission_tip_video">缺少(麦克风或相机)权限，无法使用该功能，点击"设置"去开启此权限\n您可在“设置”>“应用”>“权限”中配置权限</string>
+    <string name="permission_tip_location">缺少(读取位置信息)权限，无法使用该功能，点击"设置"去开启此权限\n您可在“设置”>“应用”>“权限”中配置权限</string>
+    <string name="permission_tip_SD_IMEI">本App需要使用(存储)和(读取本机识别码)权限，您是否同意?点击"设置"去开启此权限\n您可在“设置”>“应用”>“权限”中配置权限</string>
+    <string name="permission_tip_SD">本App需要使用(存储)权限，您是否同意?点击"设置"去开启此权限\n您可在“设置”>“应用”>“权限”中配置权限</string>
+    <string name="toast_camera">无法启用相机</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_press_ima"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_hader" />
+
+    <EditText
+        android:id="@+id/ed_idcar"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="身份证号码" />
+
+    <EditText
+        android:id="@+id/ed_name"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:hint="名字" />
+
+    <Button
+        android:id="@+id/btn_add_image"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="上传" />
+</LinearLayout>
